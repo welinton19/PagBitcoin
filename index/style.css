@@ -1,0 +1,21 @@
+body{
+    background: url('/Img/criptomoeda.jpg') rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+section{
+    background: transparent;
+    background-position: center;
+    border: 2px solid white;
+    border-radius: 5px;
+    text-decoration: none;
+   
+}
+h1{
+    color: #fff;
+}
+label{
+    color: #fff;
+}
